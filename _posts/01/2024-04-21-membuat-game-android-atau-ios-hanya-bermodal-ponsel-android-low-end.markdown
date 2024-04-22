@@ -3,7 +3,7 @@ layout: post
 title:  Membuat Game Android atau Ios, hanya bermodal ponsel Android Low End
 date:   2024-04-21
 image:  01/01.jpg
-tags:   General
+tags:   Umum
 ---
 
 Hai pib press reader? apa kabar kalian dimana pun berada? semoga sehat selalu dan dimudahkan rizekinya yaa.. amiin :). Pada artikel kali ini, kita akan membahas tool-tool yang digunakan oleh para pengembang game agar mereka dapat mengembangkan sebuah game, dan kemudian dipublikasikan pada google play store. 
