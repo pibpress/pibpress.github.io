@@ -22,9 +22,9 @@ ada beberapa tool atau platform yang disediakan untuk membagun game android atau
 1. GDevelop
 
 ![02](/img/01/02.jpg)
-\
+\n
 ![03](/img/01/03.jpg)
-\
+\n
 ![04](/img/01/04.jpg)
 
 Tool ini menawarkan interface visual intuitif dengan fitur drag-and-drop yang memudahkanmu dalam membangun game android atau ios tanpa coding. GDevelop sangat cocok untuk membangun game android atau ios sederhana dengan antarmuka yang sangat user-friendly. GDevelop juga sudah mendukung bahasa indonesia, walaupun ketika artikel ini ditulis, hanya sekitar 54% dari seluruh antarmuka aplikasi GDevelop yang sudah diterjemahkan, akan tetapi itu sudah cukup membantu dalam pengembangan game. Di dalam beranda awal, kita disuguhkan dengan tutorial yang sangat cukup untuk memulai membangun game. Seperti membuat kontrol joystick, membuat health bar, membuat objek 3d, membuat latar belakang, timer, memanipulasi skor, dan lain sebagainya. GDevelop sangat direkomendasikan untuk pemula.
